@@ -7,15 +7,10 @@
     </head>
     <body>
 
-        <h1 style="font-family: 'Dancing Script', serif;">Hello, this is a h1 tag with the same styling as a paragraph one.</h1>
-
         <h1 style="font-family: monospace;">Hello, this is a h1 tag with the same styling as a paragraph one.</h1>
 
         <h1 style="font-family: sans-serif;">Hello, this is a h1 tag with the same styling as a paragraph one.</h1>
 
-        <h1 style="font-family: 'Source Sans Pro';">Hello, this is a h1 tag with the same styling as a paragraph one.</h1>
-
-        
         <div class="container-fluid">
             <div class="col-lg-12">
                 <div class="row">
